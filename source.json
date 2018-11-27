@@ -122,7 +122,7 @@
           "column": 66
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/array/methods/strToArray.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/array/methods/strToArray.js"
     },
     "augments": [],
     "examples": [
@@ -585,7 +585,7 @@
           "column": 2
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/boolean/methods/toBool.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/boolean/methods/toBool.js"
     },
     "augments": [],
     "examples": [
@@ -928,7 +928,7 @@
           "column": 2
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/color/methods/brightness.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/color/methods/brightness.js"
     },
     "augments": [],
     "examples": [
@@ -1255,7 +1255,7 @@
           "column": 2
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/color/methods/invertHexColor.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/color/methods/invertHexColor.js"
     },
     "augments": [],
     "examples": [
@@ -1511,7 +1511,7 @@
           "column": 2
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/color/methods/randomPastelColor.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/color/methods/randomPastelColor.js"
     },
     "augments": [],
     "examples": [
@@ -1724,7 +1724,7 @@
           "column": 2
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/core/methods/argTypesMatch.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/core/methods/argTypesMatch.js"
     },
     "augments": [],
     "examples": [
@@ -2063,7 +2063,7 @@
           "column": 2
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/file/methods/convertBytes.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/file/methods/convertBytes.js"
     },
     "augments": [],
     "examples": [
@@ -2383,7 +2383,7 @@
           "column": 2
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/key/methods/guid.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/key/methods/guid.js"
     },
     "augments": [],
     "examples": [
@@ -2587,7 +2587,7 @@
           "column": 92
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/object/methods/isEmpty.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/object/methods/isEmpty.js"
     },
     "augments": [],
     "examples": [
@@ -2834,7 +2834,7 @@
           "column": 48
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/storage/methods/clear.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/storage/methods/clear.js"
     },
     "augments": [],
     "examples": [
@@ -2978,7 +2978,7 @@
           "column": 77
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/storage/methods/getItem.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/storage/methods/getItem.js"
     },
     "augments": [],
     "examples": [
@@ -3235,7 +3235,7 @@
           "column": 62
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/storage/methods/removeItem.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/storage/methods/removeItem.js"
     },
     "augments": [],
     "examples": [
@@ -3441,7 +3441,7 @@
           "column": 105
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/storage/methods/setItem.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/storage/methods/setItem.js"
     },
     "augments": [],
     "examples": [
@@ -3717,7 +3717,7 @@
           "column": 64
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/string/methods/arrToString.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/string/methods/arrToString.js"
     },
     "augments": [],
     "examples": [
@@ -4044,7 +4044,7 @@
           "column": 2
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/string/methods/toSentenceCase.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/string/methods/toSentenceCase.js"
     },
     "augments": [],
     "examples": [
@@ -4310,7 +4310,7 @@
           "column": 2
         }
       },
-      "file": "/home/travis/build/codesandcoffees/common-utils-pkg/src/string/methods/toTitleCase.js"
+      "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/string/methods/toTitleCase.js"
     },
     "augments": [],
     "examples": [
