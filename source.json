@@ -2975,7 +2975,7 @@
         },
         "end": {
           "line": 14,
-          "column": 77
+          "column": 89
         }
       },
       "file": "/home/travis/build/iamdevlinph/common-utils-pkg/src/storage/methods/getItem.js"
